@@ -3,8 +3,8 @@
 %bcond_without	tests	# Do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Crypt
-%define	pnam	TripleDES
+%define		pdir	Crypt
+%define		pnam	TripleDES
 Summary:	Crypt::TripleDES Perl module - pure Perl Triple DES implementation
 Summary(pl):	Modu³ Perla Crypt::TripleDES - czysto perlowa implementacja Triple DES
 Name:		perl-Crypt-TripleDES
