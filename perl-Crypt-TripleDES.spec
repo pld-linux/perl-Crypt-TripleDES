@@ -33,7 +33,7 @@ jest zalecany do u¿ycia z du¿ymi tekstami.
 %setup -q -n %{pdir}-%{pnam}-%{version}
 
 %build
-perl Makefile.PL
+%{__perl} Makefile.PL
 %{__make}
 %{!?_without_tests:%{__make} test}
 
