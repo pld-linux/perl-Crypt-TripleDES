@@ -9,7 +9,7 @@ Summary:	Crypt::TripleDES Perl module - pure Perl Triple DES implementation
 Summary(pl):	Modu³ Perla Crypt::TripleDES - czysto perlowa implementacja Triple DES
 Name:		perl-Crypt-TripleDES
 Version:	0.24
-Release:	2
+Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
