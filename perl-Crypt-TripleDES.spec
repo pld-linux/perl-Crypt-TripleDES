@@ -9,7 +9,8 @@ Summary(pl):	Modu³ Perla Crypt::TripleDES - czysto perlowa implementacja Triple 
 Name:		perl-Crypt-TripleDES
 Version:	0.24
 Release:	2
-License:	Artistic or GPL
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	90b562175a8f6c5f6bc3eacaddffbcde
