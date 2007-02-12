@@ -6,7 +6,7 @@
 %define		pdir	Crypt
 %define		pnam	TripleDES
 Summary:	Crypt::TripleDES Perl module - pure Perl Triple DES implementation
-Summary(pl):	Modu³ Perla Crypt::TripleDES - czysto perlowa implementacja Triple DES
+Summary(pl.UTF-8):   ModuÅ‚ Perla Crypt::TripleDES - czysto perlowa implementacja Triple DES
 Name:		perl-Crypt-TripleDES
 Version:	0.24
 Release:	3
@@ -26,11 +26,11 @@ on Eric Young's implementation of DES in pure perl. It's quite slow
 because of the way Perl handles bit operations and is not recommended
 for use with large texts.
 
-%description -l pl
-Ten modu³ jest implementacj± szyfrowania 3DES w trybie ECB. Kod bazuje
-na czysto perlowej implementacji DES Erica Younga. Jest dosyæ wolny ze
-wzglêdu na sposób obs³ugi operacji bitowych przez interpreter i nie
-jest zalecany do u¿ycia z du¿ymi tekstami.
+%description -l pl.UTF-8
+Ten moduÅ‚ jest implementacjÄ… szyfrowania 3DES w trybie ECB. Kod bazuje
+na czysto perlowej implementacji DES Erica Younga. Jest dosyÄ‡ wolny ze
+wzglÄ™du na sposÃ³b obsÅ‚ugi operacji bitowych przez interpreter i nie
+jest zalecany do uÅ¼ycia z duÅ¼ymi tekstami.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
