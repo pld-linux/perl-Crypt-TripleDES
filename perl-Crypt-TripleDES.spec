@@ -6,7 +6,7 @@
 %define		pdir	Crypt
 %define		pnam	TripleDES
 Summary:	Crypt::TripleDES Perl module - pure Perl Triple DES implementation
-Summary(pl.UTF-8):   Moduł Perla Crypt::TripleDES - czysto perlowa implementacja Triple DES
+Summary(pl.UTF-8):	Moduł Perla Crypt::TripleDES - czysto perlowa implementacja Triple DES
 Name:		perl-Crypt-TripleDES
 Version:	0.24
 Release:	3
